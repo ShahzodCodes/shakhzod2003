@@ -1,4 +1,4 @@
-# Hello I am Shakhzod.
+# Hello I am Shakhzod Yokubov.
 ## I am from Tashkent.
 ## I graduated school with a silver medal. Whaich basically means that, I am pretty good at most of the subjects, especially, I am crazy about math, physics and IT.
 ## I started learning programming at 'PDP IT Academy', and I finished my fronntend web course within six month.
